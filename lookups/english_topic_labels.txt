@@ -1,0 +1,50 @@
+Structural	p	v	ii	e	iii	vol	iv	pp	ed	pl
+Poets		byron	shelley	wordsworth	lord	keats	letter	lady	coleridge	written	published
+Latin		et	non	est	quod	ad	sed	ex	sic	aut	seneca
+War		war	brave	men	blood	land	battle	fight	foe	fol	arms
+Love		love	fair	sweet	heart	oh	maid	maiden	young	dear	eyes
+Epistolary	mr	letter	friend	any	lord	himself	having	letters	most	whom
+?		thy	mind	nor	every	each	friend	care	pride	vain	oer
+?		go	said	come	good	say	down	know	ill	did	dont
+Family	little	mother	child	boy	children	father	mary	mothers	girl	home
+Poetry	poem	poet	same	poetry	poems	two	also	poets	lines	original
+Latin	cum	ut	etc	per	canada	qu	hogg	catullus	tibi	quo
+Christianity	god	lord	holy	christ	us	faith	gods	heaven	earth	jesus
+Antiquated	ye	ben	men	god	hath	rest	good	thus	love	right
+?		hoc	jam	greene	collins	watchman	eugene	deo	isabella	drayton	orpheus
+Antiquated	thus	th	seemd	saw	turnd	lookd	calld	came	stood	each
+Addressing	mr	mrs	miss	browning	robert	brownings	revised	pompilia	barrett	sordello
+Terrain		green	trees	tree	woods	hill	hills	wood	forest	wild	mountain
+Action		said	came	saw	went	did	heard	seemed	stood	down	eyes
+Structural	ix	x	viii	vii	xi	xii	vi	xiii	xiv	xv
+Latin-Italian	de	ne	la	il	e	et	le	qui	se	en
+Ancestry	name	called	marshes	among	thus	ancient	people	indian	mythology	race
+Architecture	church	black	town	stone	wall	door	street	each	bell	st
+Second-person	thou	thy	thee	o	thine	art	hast	hath	dost	shalt
+Scottish	o	al	wi	off	wallace	na	whan	till	fa	nocht
+Latin		nec	canto	bc	tu	da	hist	pro	howe	dat	dante
+Iliad		son	achilles	hector	battle	fight	thus	wyll	trojans	spear	men
+Water		sea	water	ship	land	us	river	down	over	shore	wind
+Spanish		don	spanish	spain	williams	stephen	albert	el	juan	matilda	philip
+Figurative	sweet	o	night	light	song	love	sun	flowers	eyes	heart
+Catholicism	pope	rome	england	people	english	against	government	roman	ib	church
+Existential	love	heart	know	too	soul	let	death	us	last	never
+Gutenberg	ebook	project	gutenberg	online	produced	poems	author	set	date	use
+?		john	william	london	sir	thomas	edition	new	george	w	charles
+Atmosphere	oer	light	deep	earth	dark	night	air	eye	far	heaven
+Dialect	A	th	hire	read	fra	parson	lond	miller	wur	ton	tha
+Metaphysics	nature	most	human	character	even	mind	power	spirit	world	itself
+?		any	very	much	us	say	think	am	even	know	being
+Human nature	men	good	nor	without	most	thus	reason	both	himself	wit
+?		love	soul	nor	earth	world	whose	doth	each	did	nature
+Gutenberg	project	any	gutenbergtm	foundation	donations	gutenberg	literary	archive	work	works
+Dialect B	pg	doe	hee	bee	doth	downe	owne	phaeton	goe	sophocles
+Nobility	king	sir	lord	queen	knight	lady	prince	good	said	kings
+Classical deities	gods	son	goddess	father	king	men	zeus	wine	whom	daughter
+Marginalia		ms	40	50	35	60	note	45	70	n	page
+Marginalia		c	b	1	l	2	3	f	5	4	h
+?			did	might	hand	men	nor	unto	head	gold	each	forth
+?			after	house	about	young	years	two	very	little	place	found
+Homer			homer	greek	ulysses	iliad	return	greece	odyssey	greeks	jupiter	helen
+?			s	t	o	d	er	fer	mi	ner	n	air
+Gutenberg		project	work	gutenbergtm	works	terms	electronic	gutenberg	any	license	copyright

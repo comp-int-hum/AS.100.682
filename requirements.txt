@@ -1,2 +1,9 @@
 beautifulsoup4
 pandas
+steamroller
+gensim
+lxml
+sklearn
+requests
+altair
+altair_saver
