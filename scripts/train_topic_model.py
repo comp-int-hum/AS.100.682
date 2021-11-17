@@ -12,8 +12,8 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", dest="input", help="Input file")
-    parser.add_argument("--lower_case", dest="lower_case", type=int, default=0)
-    parser.add_argument("--keep_punctuation", dest="keep_punctuation", type=int, default=0)
+    parser.add_argument("--lower_case", dest="lower_case", action="store_true", default=False)
+    parser.add_argument("--keep_punctuation", dest="keep_punctuation", action="store_true", default=False)
     parser.add_argument("--topic_count", dest="topic_count", type=int)
     parser.add_argument("--max_doc_length", dest="max_doc_length", type=int)
     parser.add_argument("--passes", dest="passes", default=20, type=int)

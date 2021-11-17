@@ -100,7 +100,7 @@ if __name__ == "__main__":
                                 pass
                             elif tp == "cdl":
                                 # textid, cdl
-                                eid = j["textid"]
+                                eid = j["textid"]                            
                                 data[eid] = data.get(eid, {})
                                 out = process_cdl(j)
                                 text = {
@@ -129,6 +129,8 @@ if __name__ == "__main__":
     fields = {}
     with gzip.open(args.output, "wt") as ofd:
         for v in data.values():
+            #if "id_text" not in v:
+            #    continue
             for k in list(v.keys()):
                 fields[k] = fields.get(k, {})
                 if k in ["text", "translation"] and isinstance(v[k], set):

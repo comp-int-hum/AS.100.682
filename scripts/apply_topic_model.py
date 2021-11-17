@@ -16,8 +16,8 @@ if __name__ == "__main__":
     parser.add_argument("--model", dest="model", help="Model file")
     parser.add_argument("--text", dest="text")
     parser.add_argument("--translation", dest="translation", default=None)
-    parser.add_argument("--lower_case", dest="lower_case", type=int, default=0)
-    parser.add_argument("--keep_punctuation", dest="keep_punctuation", type=int, default=0)
+    parser.add_argument("--lower_case", dest="lower_case", action="store_true", default=False)
+    parser.add_argument("--keep_punctuation", dest="keep_punctuation", action="store_true", default=False)
     parser.add_argument("--output", dest="output", help="Output file")
     parser.add_argument("--random_seed", dest="random_seed", default=0, type=int, help="Random seed")
     parser.add_argument("--log_level", dest="log_level", default="INFO",
